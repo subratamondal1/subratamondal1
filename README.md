@@ -1,4 +1,4 @@
-### Hi there,I'm Subrata Mondal 👋
+### Hi there👋, I'm Subrata
 
 - 🔭 I’m currently working on flutter project
 - 🌱 I’m currently learning DSA with python
