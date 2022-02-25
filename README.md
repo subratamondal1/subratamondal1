@@ -38,5 +38,5 @@ ___
 
 
 ___
->NOTE: I don't know Kotlin, Swift , Objective-C i.e is showing in the chart , it's showing due to the Flutter Project because it's Cross-Platform and contains auto generated code for Native IOS & Android Platform.
+>NOTE: I don't know Kotlin, Swift , Objective-C i.e is showing in the above chart , it's showing due to the Flutter Project because it's Cross-Platform and contains auto generated code for Native IOS & Android Platform.
 
