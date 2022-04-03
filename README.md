@@ -1,7 +1,7 @@
 ``` Welcome 🙏🏼 to my portfolio , I'm Subrata Mondal ```
 
 
-<img align="right" width="47%"   src="https://github-readme-stats.vercel.app/api/top-langs/?username=subratasubro&exclude_repo=github-readme-stats,subratasubro.github.io)](https://github.com/anuraghazra/github-readme-stats&theme=chartreuse-dark"> 
+<!-- <img align="right" width="47%"   src="https://github-readme-stats.vercel.app/api/top-langs/?username=subratasubro&exclude_repo=github-readme-stats,subratasubro.github.io)](https://github.com/anuraghazra/github-readme-stats&theme=chartreuse-dark">  -->
 
 ___
 
@@ -38,5 +38,5 @@ ___
 
 
 ___
->NOTE: I don't know Kotlin, Swift , Objective-C i.e is showing in the above chart , it's showing due to the Flutter Project because it's Cross-Platform and contains auto generated code for Native IOS & Android Platform.
+<!-- >NOTE: I don't know Kotlin, Swift , Objective-C i.e is showing in the above chart , it's showing due to the Flutter Project because it's Cross-Platform and contains auto generated code for Native IOS & Android Platform. -->
 
