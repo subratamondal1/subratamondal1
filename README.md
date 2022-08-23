@@ -2,7 +2,8 @@
 # ```Hi, I'm Subrata! 👋```
 
 ## `🚀 About Me`
-I'm a Data Scientist and someone who is ready to push boundaries to learn new things. I have experience with deploying projects in the cloud with AWS Sagemaker. I have made projects regarding Heart Disease Prediction for the Final Year College. I have all the relevant skills regarding Data Science and ML Projects from creating Data Pipelines (Data Collection, Data Preparation, Model Training, Evaluation, Deployment) to ETL(Extract, Transform, Load). Few of the languages and libraries I have worked with are Python, SQL, Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn.
+I'm a Data Scientist and someone who is ready to push boundaries to learn new things. I have experience with production level Data Science Projects with Streamlit. I have made projects regarding Heart Attack Prediction for the Final Year College. I have all the relevant skills regarding Data Science and ML Projects from creating Data Pipelines (Data Collection, Data Preparation, Model Training, Evaluation, Deployment) to ETL(Extract, Transform, Load). Few of the languages and libraries I have worked with are Python, SQL, Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn.
+Currently pursuing with DataCamp's Career Track " Data Scientist with Python ".
 
 
 ## `🛠 Skills`
