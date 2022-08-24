@@ -2,8 +2,8 @@
 # ```Hi, I'm Subrata! 👋```
 
 ## `🚀 About Me`
-I'm a Data Scientist and someone who is ready to push boundaries to learn new things. I have experience with production level Data Science Projects with Streamlit. I have made projects regarding Heart Attack Prediction for the Final Year College. I have all the relevant skills regarding Data Science and ML Projects from creating Data Pipelines (Data Collection, Data Preparation, Model Training, Evaluation, Deployment) to ETL(Extract, Transform, Load). Few of the languages and libraries I have worked with are Python, SQL, Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn.
-Currently pursuing with DataCamp's Career Track " Data Scientist with Python ".
+Aspiring Data Scientist with knowledge in SQL, Python and it's packages like Pandas, Numpy , Matplotlib, Seaborn, Scikit-Learn. Created Machine Learning project in the domain of Health Care.
+Currently, I focus on creating production level ML projects with streamlit with the aim of deploying it it in the cloud. I typically use Python for scripting, Pandas & Numpy for Data Wrangling, Matplotlib & Seaborn for Visualization, Scikit-learn for Model Training, Juypyter Notebook for the client , Kaggle and UCI for datasets, Html for structuring the notebook.
 
 
 ## `🛠 Skills`
