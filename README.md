@@ -2,8 +2,8 @@
 # ```Hi, I'm Subrata! 👋```
 
 ## `🚀 About Me`
-I am a Software Engineer and now exploring this field of Machine Learning and Data Science and currently enjoying it. I have few of the related skillset such as EXPLORATORY DATA ANALYSIS, DATA PREPARATION, DATA VISUALIZATION, FEATURE ENGINEERING, FEATURE SELECTION, HYPERPARAMETER TUNING, PROBABILITY & STATISTICAL KNOWLEDGE.
-The libraries I play with are Pandas, Numpy, Matplotlib, Seaborn, Scikit-Learn and Scipy. Since, the libraries are huge so I frequently rely on the Official Documentations.
+I am a Software Engineer and now exploring this field of Machine Learning and Data Science and currently enjoying it. I have few of the related skillset such as EXPLORATORY DATA ANALYSIS, DATA PREPARATION, DATA VISUALIZATION, FEATURE ENGINEERING, FEATURE SELECTION, HYPERPARAMETER TUNING, PROBABILITY & STATISTICAL KNOWLEDGE.</br>
+The libraries I play with are Pandas, Numpy, Matplotlib, Seaborn, Scikit-Learn and Scipy. Since, the libraries are huge so I frequently rely on the Official Documentations.</br>
 I am working on self improvement , made personal projects with ML & DS and also deployed them on the Cloud with streamlit.
 
 
