@@ -2,8 +2,9 @@
 # ```Hi, I'm Subrata! 👋```
 
 ## `🚀 About Me`
-Aspiring Data Scientist with knowledge in SQL, Python and it's packages like Pandas, Numpy , Matplotlib, Seaborn, Scikit-Learn. Created Machine Learning project in the domain of Health Care.
-Currently, I focus on creating production level ML projects with streamlit with the aim of deploying it it in the cloud. I typically use Python for scripting, Pandas & Numpy for Data Wrangling, Matplotlib & Seaborn for Visualization, Scikit-learn for Model Training, Juypyter Notebook for the client , Kaggle and UCI for datasets, Html for structuring the notebook.
+I am a Software Engineer and now exploring this field of Machine Learning and Data Science and currently enjoying it. I have few of the related skillset such as EXPLORATORY DATA ANALYSIS, DATA PREPARATION, DATA VISUALIZATION, FEATURE ENGINEERING, FEATURE SELECTION, HYPERPARAMETER TUNING, PROBABILITY & STATISTICAL KNOWLEDGE.
+The libraries I play with are Pandas, Numpy, Matplotlib, Seaborn, Scikit-Learn and Scipy. Since, the libraries are huge so I frequently rely on the Official Documentations.
+I am working on self improvement , made personal projects with ML & DS and also deployed them on the Cloud with streamlit.
 
 
 ## `🛠 Skills`
