@@ -9,6 +9,7 @@ You can check out all the web app links listed in the resume, they are live.
 Thanking you.
 
 Sincerely Yours,
+
 Subrata Mondal
 
 
