@@ -2,9 +2,14 @@
 # ```Hi, I'm Subrata! 👋```
 
 ## `🚀 About Me`
-I am a Software Engineer and now exploring this field of Machine Learning and Data Science and currently enjoying it. I have few of the related skillset such as EXPLORATORY DATA ANALYSIS, DATA PREPARATION, DATA VISUALIZATION, FEATURE ENGINEERING, FEATURE SELECTION, HYPERPARAMETER TUNING, PROBABILITY & STATISTICAL KNOWLEDGE.</br>
-The libraries I play with are Pandas, Numpy, Matplotlib, Seaborn, Scikit-Learn and Scipy. Since, the libraries are huge so I frequently rely on the Official Documentations.</br>
-I am working on self improvement , made personal projects with ML & DS and also deployed them on the Cloud with streamlit. Also, I am well versed with Python and PostgreSQL.
+I have completed my Bachelor’s Degree in Computer Engineering and on top of that I have done multiple trainings on Data Science and Machine Learning, participated in Data Science Hackathons, developed Machine Learning web apps and deployed them in the cloud. So, I believe that I have the required technical knowledge and skills to work on your organisation. Also, I am a quick learner and adaptable, so learning new techs and skills wouldn’t be a problem for me.
+
+You can check out all the web app links listed in the resume, they are live.
+
+Thanking you.
+
+Sincerely Yours,
+Subrata Mondal
 
 
 ## `🛠 Skills`
