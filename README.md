@@ -2,15 +2,17 @@
 # ```Hi, I'm Subrata! 👋```
 
 ## `🚀 About Me`
-I have completed my Bachelor’s Degree in Computer Engineering and on top of that I have done multiple trainings on Data Science and Machine Learning, participated in Data Science Hackathons, developed Machine Learning web apps and deployed them in the cloud. So, I believe that I have the required technical knowledge and skills to work on your organisation. Also, I am a quick learner and adaptable, so learning new techs and skills wouldn’t be a problem for me.
-
-You can check out all the web app links listed in the resume, they are live.
-
-Thanking you.
-
-Sincerely Yours,
-
-Subrata Mondal
+Hello, I’m Subrata Mondal, a computer science engineer and a data analyst. I have a B.Sc. in computer science and I’m doing a Data Analytics Bootcamp at Trainity. I love finding data insights and solving problems with Python, SQL, machine learning, and more. My skills include:
+- Python
+- SQL
+- NumPy
+- Pandas
+- MS Excel
+- MS PowerPoint
+- Machine learning
+- Data analysis
+  
+I’m always learning new things and improving my skills. I’m also open to collaborating on data projects and sharing my knowledge. You can see some of my work on GitHub. Feel free to contact me for any questions or suggestions.
 
 
 ## `🛠 Skills`
