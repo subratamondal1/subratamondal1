@@ -14,7 +14,7 @@ I'm **`Subrata  Mondal`**, a Machine Learning Engineer with a strong interest in
 - Developed a real-time bird species detector using FastAi and deployed it to production, helping bird enthusiasts and researchers identify birds with ease.
 - Achieved 98.59% validation accuracy on a dataset of 525 bird species, with an average inference time of 100ms.
 - Deployed the model on Streamlit to make it accessible to users with a variety of devices and operating systems.
-- [Project Link](https://huggingface.co/iamsubrata/birds-525-species-detector)
+- [Project Link](https://huggingface.co/spaces/iamsubrata/birds-525-species-detector)
 
 ### Analytics Olympiad 2023 Hackathon | Loan Default Binary Classification
 - Secured a top 12 leaderboard position out of 935 participants in a hackathon for loan default binary classification.
