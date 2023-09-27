@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile 🙏🏼
 
-I'm SUBRATA MONDAL, a passionate Machine Learning Engineer and a Graduate of Bachelor of Technology in Computer Science Engineering.
+I'm SUBRATA MONDAL, a Machine Learning Engineer with a strong interest in computer vision and natural language processing. I hold a Bachelor of Technology Degree in Computer Science Engineering and am dedicated to creating innovative solutions through machine learning and deep learning.
 
 ## Experience
 
@@ -37,5 +37,9 @@ I'm SUBRATA MONDAL, a passionate Machine Learning Engineer and a Graduate of Bac
 
 - Bachelor of Technology in Computer Science Engineering (Undergraduate)
 - Parul University (2019 - 2023)
+
+## Contact
+- **Email:** subratasubha2@gmail.com
+- **LinkedIn:** [https://www.linkedin.com/in/i-am-subrata-mondal/](https://www.linkedin.com/in/i-am-subrata-mondal/)
 
 Feel free to explore my projects and contributions. Let's connect and collaborate on exciting ventures!
