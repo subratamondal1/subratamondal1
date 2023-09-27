@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile 🙏🏼
 
-I'm **`Subrata  Mondal`**, a Machine Learning Engineer with a strong interest in computer vision and natural language processing. I hold a Bachelor of Technology Degree in Computer Science Engineering and am dedicated to creating innovative solutions through machine learning and deep learning. 
+I'm **`Subrata Mondal`**, a Machine Learning Engineer with a strong interest in computer vision and natural language processing. I hold a Bachelor of Technology Degree in Computer Science Engineering and am dedicated to creating innovative solutions through machine learning and deep learning. 
 
 ## 📚 Experience
 
