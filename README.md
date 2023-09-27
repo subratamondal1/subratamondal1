@@ -1,38 +1,41 @@
-# Welcome to My GitHub Profile 👋
+# Welcome to My GitHub Profile 🙏🏼
 
-I'm SUBRATA MONDAL, a passionate Machine Learning Engineer and Computer Science student. Here's a glimpse of my journey:
+I'm SUBRATA MONDAL, a passionate Machine Learning Engineer and a Graduate of Bachelor of Technology in Computer Science Engineering.
 
 ## Experience
 
-### Machine Learning Engineer | Independent Project
-- Pioneered a Bigram Language model akin to GPT from scratch, harnessing Python and PyTorch with Transformer Architecture.
-- Rigorous training on the extensive tinyShakespeare dataset (1.1 Million characters).
-- Orchestrated a custom encoder and decoder architecture, achieving a Loss of 4.2 during fundamental training, showcasing profound mastery in NLP and deep learning.
+### Realtime Pets (Cat and Dog) Breed Detector | Independent Project
+- Developed a real-time pet breed detector using FastAi and deployed it to production, helping pet owners identify their furry friends with ease.
+- Achieved 93.78% validation accuracy on a dataset of 37 cat and dog breeds, with an average inference time of 100ms.
+- Deployed the model on Streamlit to make it accessible to users with a variety of devices and operating systems.
+- [Project Link](https://subrata-mondal-cat-and-dog-breed-detector.streamlit.app/)
 
-### Image Classification Model Developer | Independent Project
-- Designed an image classification model using TensorFlow, leveraging Convolutional Neural Networks (CNNs).
-- Executed sentiment analysis on diverse image datasets, enabling precise binary classification.
-- Led data curation through meticulous manual collection from Google Search, exemplifying strong data acquisition skills.
-- Attained an exemplary Loss of 0.03, underscoring exceptional proficiency in computer vision and deep learning.
+### Realtime Birds 525 Species Detector | Independent Project
+- Developed a real-time bird species detector using FastAi and deployed it to production, helping bird enthusiasts and researchers identify birds with ease.
+- Achieved 98.59% validation accuracy on a dataset of 525 bird species, with an average inference time of 100ms.
+- Deployed the model on Streamlit to make it accessible to users with a variety of devices and operating systems.
+- [Project Link](https://huggingface.co/iamsubrata/birds-525-species-detector)
 
-### Hackathon Participant | Loan Default Binary Classification
-- Engaged in an intensive online hackathon focused on loan default binary classification.
-- Expertly utilized FastAi's Tabular Learner and PyTorch-TabNet for predictive modeling.
-- Achieved remarkable outcomes: Recorded a Loss of 0.02452, Validation AUC-ROC Score of 0.99994, and Validation Accuracy of 0.99911.
-- Secured a distinguished top 30 leaderboard position out of 450 participants, supported by a test dataset ROC-AUC score of 0.9983, signifying profound acumen in data analysis and modeling.
+### Analytics Olympiad 2023 Hackathon | Loan Default Binary Classification
+- Secured a top 12 leaderboard position out of 935 participants in a hackathon for loan default binary classification.
+- Trained a FastAi’s TabularModel and XGBoost, achieving a log-loss of 0.0032, validation AUC-ROC score of 1.0, validation accuracy of 1.0, and public leaderboard score of 0.99998.
+- Trained a model with 59 million parameters that can be exported to a size of 252 MB.
 
 ## Skills
 
 - Programming Languages: Python
-- Machine Learning Libraries: PyTorch, TensorFlow, FastAi, HuggingFace
-- Data Manipulation: Pandas, Numpy
-- Data Visualization: Matplotlib
-- Natural Language Processing (NLP), Deep Learning, and Neural Networks
-- Image Classification, Model Development and Evaluation, Data Collection and Analysis, Hackathon and Competition Experience
+- Machine Learning Libraries: PyTorch, FastAi, HuggingFace
+- Data Manipulation and Visualization: Pandas, Numpy, Matplotlib
+
+## Expertise
+
+- Machine Learning: Trained and deployed ML models with over 59 million parameters.
+- Deep Learning: Developed computer vision models with 93.78% and 98.59% validation accuracy on image classification tasks with 37 and 525 labels, respectively.
+- Web Development: Developed user-friendly web applications with Streamlit for real-time pet breed and bird species detection with an average inference time of 100ms.
 
 ## Education
 
-- BTech in Computer Science Engineering (CSE)
-- Parul University, 2019 - 2023
+- Bachelor of Technology in Computer Science Engineering (Undergraduate)
+- Parul University (2019 - 2023)
 
 Feel free to explore my projects and contributions. Let's connect and collaborate on exciting ventures!
