@@ -66,3 +66,6 @@
   <a href="https://mail.google.com/mail/?extsrc=mailto&url=mailto:subratasubha2@gmail.com" target="_blank" rel="noreferrer"> <img src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/logo_gmail_lockup_default_2x_r5.png" alt="gmail" width="100" height="40"/> </a> 
   <a href="https://www.linkedin.com/in/i-am-subrata-mondal/" target="_blank" rel="noreferrer"> <img src="https://th.bing.com/th/id/OIP.RUL2_Fofw4FtaDJjFseiewHaHa?w=198&h=198&c=7&r=0&o=5&dpr=2&pid=1.7" alt="gmail" width="40" height="40"/> </a> </p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=subratamondal1&show_icons=true&locale=en&layout=compact" alt="subratamondal1" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=subratamondal1&show_icons=true&locale=en" alt="subratamondal1" /></p>
