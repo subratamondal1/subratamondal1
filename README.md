@@ -17,12 +17,12 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>  
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://th.bing.com/th/id/OIP.ggI1GNZHj09P-mq2fIDApgHaEK?w=315&h=180&c=7&r=0&o=5&dpr=2&pid=1.7" alt="python" width="100" height="40"/> </a> 
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://pandas.pydata.org/static/img/pandas_white.svg" alt="pandas" width="100" height="40"/> </a>
+  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://th.bing.com/th/id/OIP.Uc-PxrCfEpxFJcwOHSnXpAHaCH?w=350&h=100&c=7&r=0&o=5&dpr=2&pid=1.7" alt="python" width="100" height="40"/> </a> 
   <a href="https://www.pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://th.bing.com/th/id/OIP.-kmYMHttcgwB4THKJKQIrQHaCK?w=308&h=102&c=7&r=0&o=5&dpr=2&pid=1.7" alt="pytorch" width="100" height="40"/> </a> 
   <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"> <img src="https://www.gstatic.com/devrel-devsite/prod/vf713985d8e62ba7506345995097e4b76a060f9dc558a369e9b889efae740fb5f/tensorflow/images/lockup.svg" alt="tensorflow" width="100" height="40"/> </a>
   <a href="https://scikit-learn.org/stable/index.html" target="_blank" rel="noreferrer"> <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" alt="tensorflow" width="100" height="40"/> </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://pandas.pydata.org/static/img/pandas_white.svg" alt="pandas" width="100" height="40"/> </a>
   <a href="https://www.numpy.org/" target="_blank" rel="noreferrer"> <img src="https://numpy.org/images/logo.svg" alt="numpy" width="100" height="40"/> </a>
   <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src="https://matplotlib.org/_static/logo_dark.svg" alt="matplotlib" width="100" height="40"/> </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="100" height="40"/> </a>
