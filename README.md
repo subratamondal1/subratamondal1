@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Subrata Mondal</h1>
+
 <h3 align="center">Junior ML Engineer Intern @Omdena and a CS Engineering Graduate</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=subratamondal1&label=Profile%20views&color=0e75b6&style=flat" alt="subratamondal1" /> </p>
 
@@ -16,6 +18,10 @@
 - 💬 Ask me about **Python, Git, ML, PyTorch, Tensorflow, Numpy, Pandas, AI tools**
 
 <h3 align="left">Languages and Tools:</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,tensorflow,django,docker,aws,mysql,sqlite,regex,postman,html,css,js,react,bootstrap,tailwind,git,github,neovim,vscode&perline=7" />
+</p>
+
 <p align="left"> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
   <a href="https://huggingface.co/" target="_blank" rel="noreferrer"> <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="python" width="40" height="40"/> </a> 
