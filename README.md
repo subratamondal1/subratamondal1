@@ -73,9 +73,9 @@
 
 <h3 align="left">Deployed Projects:</h3>
 <p align="left"> 
+   <a href="https://subrata-mondal-cat-and-dog-breed-detector.streamlit.app/" target="_blank" rel="noreferrer"> <img src="https://th.bing.com/th/id/OIP.uihVuiZuQss4nvrIP0RNEwHaHa?w=188&h=188&c=7&r=0&o=5&dpr=2&pid=1.7" alt="pets breed detector" title="Pets Breed Detector" width="80" height="80"/> </a>
   <a href="https://huggingface.co/spaces/iamsubrata/birds-525-species-detector" target="_blank" rel="noreferrer"> <img src="https://th.bing.com/th?id=OIP.bX-5lMdh2hm_ytHd2skVSgHaF7&w=279&h=223&c=8&rs=1&qlt=90&o=6&dpr=2&pid=3.1&rm=2" alt="birds detector" title="Bird Species Detector" width="80" height="80"/> </a> 
   <a href="https://subratamondal1-emotionai-emotionaiapp-7r6pf3.streamlit.app/" target="_blank" rel="noreferrer"> <img src="https://images.rawpixel.com/image_400/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvdjExLWp1LTMwLWVtb2ppMV8yLmpwZw.jpg?s=c0LzrNyFJHOPpLyNIHnrfFmLKJwhOMXqzKS4tVFfbes" alt="birds detector" title="Emotion AI" width="80" height="80"/> </a> 
-  <a href="https://subratamondal1-emotionai-emotionaiapp-7r6pf3.streamlit.app/" target="_blank" rel="noreferrer"> <img src="https://th.bing.com/th/id/OIP.2z7T5lzpl6xaMZZiDRxQXAHaE7?w=284&h=190&c=7&r=0&o=5&dpr=2&pid=1.7" alt="birds detector" title="Talk With Doc" width="80" height="80"/> </a>
-  <a href="https://subrata-mondal-cat-and-dog-breed-detector.streamlit.app/" target="_blank" rel="noreferrer"> <img src="https://th.bing.com/th/id/OIP.uihVuiZuQss4nvrIP0RNEwHaHa?w=188&h=188&c=7&r=0&o=5&dpr=2&pid=1.7" alt="pets breed detector" title="Pets Breed Detector" width="80" height="80"/> </a>
+  <a href="https://subratamondal1-emotionai-emotionaiapp-7r6pf3.streamlit.app/" target="_blank" rel="noreferrer"> <img src="https://th.bing.com/th/id/OIP.ZFAZTMikm3U_Kg9EKpXOuwHaE7?w=268&h=180&c=7&r=0&o=5&dpr=2&pid=1.7" alt="talk with doc" title="Talk With Doc" width="80" height="80"/> </a>
 </p>
 
