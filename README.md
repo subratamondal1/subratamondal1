@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Subrata Mondal</h1>
-
 <h3 align="center">Junior ML Engineer Intern @Omdena and a CS Engineering Graduate</h3>
+
+<h3 align="center"><a href="https://subrata-mondal-portfolio.netlify.app/" target="_blank">My Portfolio Website</a></h3>
+
+---
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=subratamondal1&label=Profile%20views&color=0e75b6&style=flat" alt="subratamondal1" /> </p>
