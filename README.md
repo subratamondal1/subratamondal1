@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Subrata Mondal</h1>
 <h3 align="center">Junior ML Engineer Intern @Omdena and a CS Engineering Graduate</h3>
 
-<h3 align="center"><a href="https://subrata-mondal-portfolio.netlify.app/" target="_blank">My Portfolio Website</a></h3>
+<h3 align="center"><a href="https://subrata-mondal-portfolio.netlify.app/" target="_blank" rel="noopener noreferrer">My Portfolio Website</a></h3>
 
 ---
 
