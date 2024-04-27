@@ -10,16 +10,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=subratamondal1" alt="subratamondal1" /></a> </p>
 
-- 🎥 I’m currently building: **Data Streamer**
-
-- 🌱 I’m currently learning: **AWS MLOPS**
-
-- 🎥 I’m building next: **Let's See**
-
-- 🤝 I’m looking for full time jobs at **AI** and it's related fields like **Data Science, ML, Deep Learning, NLP,** etc.
-
-- 💬 Ask me about **Python, Git, ML, PyTorch, Tensorflow, Numpy, Pandas, AI tools**
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,tensorflow,django,docker,aws,mysql,sqlite,regex,postman,html,css,js,react,bootstrap,tailwind,git,github,neovim,vscode&perline=7" />
