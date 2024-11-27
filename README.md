@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Subrata Mondal</h1>
 
-### Python Developer [@TheAlgoHype](https://thealgohype.com/) | Graduate in Computer Science Engineering
+### AI Engineer [@TheAlgoHype](https://thealgohype.com/) | Graduate in Computer Science Engineering
 
 <h4 align="center"><a href="https://subrata-mondal-portfolio.netlify.app/" target="_blank" rel="noopener noreferrer">PORTFOLIO WEBSITE</a></h4>
 
