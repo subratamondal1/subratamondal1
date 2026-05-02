@@ -22,9 +22,9 @@ Production agentic AI at [lawworld.ai](https://lawworld.ai). Multi-agent pipelin
 
 - **Language** — Python 3.12+ · async · type-annotated end-to-end
 - **Web** — FastAPI · Pydantic · httpx · structlog
-- **Agents + LLMs** — LangChain · LangGraph · ReAct · MCP · A2A · structured outputs · LLM-as-judge · prompt caching
+- **Agents + LLMs** — LangChain · LangGraph · ReAct · MCP · structured outputs · LLM-as-judge · prompt caching
 - **Data** — MongoDB (async) · Redis · vector search
-- **Cloud** — Azure (Container Apps · Service Bus · Blob · Key Vault) · Docker · Kubernetes
+- **Cloud** — Azure (Container Apps · Service Bus · Blob · Key Vault) · Docker
 - **Infra + Ops** — Bicep · Terraform · GitHub Actions · OpenTelemetry · ARQ
 - **Tooling** — uv · ruff · ty · pytest · orjson
 
@@ -34,18 +34,17 @@ Production agentic AI at [lawworld.ai](https://lawworld.ai). Multi-agent pipelin
 
 - **Agentic systems** — multi-agent orchestration · ReAct loops · planning · reflection · tool-calling · structured outputs
 - **LLM reliability** — retries · fallback · provider routing · prompt caching · cost + latency engineering
-- **Evaluation** — golden datasets · LLM-as-judge graders · regression harnesses · replay-driven debugging
+- **Evaluation** — golden datasets · LLM-as-judge graders · eval harness · metrics-driven iteration
 - **Backend depth** — async Python · schema-first APIs · queue-based pipelines · observability · IaC
+- **Durable orchestration** — long-running agent runtimes · event-driven choreography over message queues · per-step checkpointed crash-recovery · self-healing producer-worker pipelines · idempotent at-least-once delivery
 - **Production ownership** — incident response · on-call · deployment · cost attribution
 
 ---
 
 ### Currently exploring
 
-- MCP servers and agent-tool ecosystems
-- Long-running agent runtimes · durable execution
-- Eval-harness design for non-deterministic systems
-- Cost + latency engineering for LLM pipelines at production scale
+- MCP servers · A2A protocol · agent-tool ecosystems
+- Kubernetes-native deployment patterns (production currently on Azure Container Apps)
 
 ---
 
