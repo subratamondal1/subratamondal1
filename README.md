@@ -23,8 +23,8 @@ Production agentic AI at [lawworld.ai](https://lawworld.ai). Multi-agent pipelin
 - **Language** — Python 3.12+ · async · type-annotated end-to-end
 - **Web** — FastAPI · Pydantic · httpx · structlog
 - **Agents + LLMs** — LangChain · LangGraph · ReAct · MCP · structured outputs · LLM-as-judge · prompt caching
-- **Data** — MongoDB (async) · Redis · vector search
-- **Cloud** — Azure (Container Apps · Service Bus · Blob · Key Vault) · Docker
+- **Data** — MongoDB Atlas (async) + Atlas Vector Search · native Voyage AI embeddings & reranking · Redis
+- **Cloud** — Azure (Container Apps · Service Bus · Blob · Key Vault · AI Foundry) · Docker
 - **Infra + Ops** — Bicep · Terraform · GitHub Actions · OpenTelemetry · ARQ
 - **Tooling** — uv · ruff · ty · pytest · orjson
 
