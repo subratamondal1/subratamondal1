@@ -1,4 +1,4 @@
-# Hi, I'm Subrata Mondal
+# <h1 align="center">Hi, I'm Subrata Mondal</h1>
 
 **Founding AI Engineer | Agentic Systems · RAG · LLM Evals**
 
