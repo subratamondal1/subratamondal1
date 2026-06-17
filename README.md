@@ -5,7 +5,7 @@
 <p align="center"><em>Python · LangChain · LangGraph · MCP · multi-agent · evaluation</em></p>
 
 <p align="center">
-  <a href="https://subrata-mondal.vercel.app">Portfolio</a> ·
+  <a href="https://www.subrata.cloud/">Portfolio</a> ·
   <a href="https://www.linkedin.com/in/i-am-subrata-mondal/">LinkedIn</a> ·
   <a href="mailto:subratasubha2@gmail.com">Email</a>
 </p>
