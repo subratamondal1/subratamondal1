@@ -2,7 +2,7 @@
 
 <h3 align="center">Founding AI Engineer | Agentic Systems · RAG · LLM Evals</h3>
 
-> 🟢 **Open to senior / founding AI Engineer roles, remote.** Most recently the founding / sole AI engineer at lawworld.ai (Aug 2024 to Jun 2026).
+> 🟢 **Open to senior / founding AI Engineer roles.** Most recently the founding / sole AI engineer at lawworld.ai (Aug 2024 to Jun 2026).
 
 <p align="center"><em>Python · async · LiteLLM · multi-agent · RAG · evaluation · MCP</em></p>
 
