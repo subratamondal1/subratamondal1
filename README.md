@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Subrata Mondal</h1>
-  <h3>Founding AI Engineer | Agentic Architecture & DSPy Evals</h3>
-  <p><em>Python · Async · LiteLLM · Multi-Agent Swarms · Contextual RAG · DBOS · MCP</em></p>
+  <h3>Founding AI Engineer | Primitive-Level Architecture & Hyperscale Infrastructure</h3>
+  <p><em>Raw Async Python · LiteLLM · DBOS · Multi-Agent Swarms · DSPy Evals · Kubernetes (KEDA)</em></p>
 
   <p>
     <a href="https://subrata.cloud/" target="_blank">Portfolio</a> •
@@ -14,31 +14,33 @@
 ---
 
 ### 🟢 Status
-**Open to Senior / Founding AI Engineer roles.** Most recently the Founding AI Engineer / Systems Architect at **Smart AI Technology Solutions (LawWorld)** (Aug 2024 - Jun 2026).
+**Open to Founding / Senior AI Engineer roles.** Most recently the Founding AI Engineer at **Smart AI Technology Solutions (LawWorld)** (Aug 2024 - Jun 2026), where I served as the sole AI and backend engineer, shipping 5 production backends and a 170K-document legal RAG system serving 2,000+ users.
 
 ---
 
 ### 🧠 The Engineering Philosophy
-I specialize in **primitive-level orchestration**. My work focuses on abandoning opaque multi-agent frameworks in favor of raw async Python, LiteLLM, and durable execution to enforce highly deterministic, transparent, and scalable ReAct loops with bounded iterations and strict schema validations. 
+I do not build fragile AI wrappers using high-level frameworks like LangChain or LangGraph. I specialize in **primitive-level orchestration**, engineering the entire hyperscale stack from the ground up—from global edge routing and TCP optimization down to custom LLM orchestration and Pydantic-enforced structured outputs. 
 
 > *"Frameworks obscure the cost ledger; primitives expose it."*
 
+My work focuses on abandoning opaque multi-agent frameworks in favor of raw async Python, LiteLLM, and durable execution to enforce highly deterministic, transparent, and scalable ReAct loops with bounded iterations.
+
 ---
 
-### 🚀 Open-Source Architecture
+### 🚀 Production & Open-Source Architecture
 
 #### 1. [Bare Agent](https://github.com/subratamondal1/bare-agent) | Framework-Free Multi-Agent Runtime
-Published a zero-lock-in agent runtime to PyPI built on exactly 8 core primitives and zero dependencies. Designed for executing deterministic multi-agent chains with complete state transparency. Features a Next.js drag-and-drop studio that compiles visual node graphs directly into raw, high-performance async Python code (optimized for local Ollama execution at $0).
+A zero-lock-in agent runtime published to PyPI, built on exactly 8 core primitives and zero dependencies. At LawWorld, I replaced a production LangGraph orchestration layer with this custom 8-primitive runtime, **cutting prompt token overhead by 27%** and eliminating schema drift entirely. Features a Next.js drag-and-drop studio that compiles visual node graphs directly into raw, high-performance async Python code.
 
 #### 2. [Argus](https://github.com/subratamondal1/argus) | Multi-Agent Deep-Research Engine
 A framework-free ReAct orchestration swarm built on Python, LiteLLM, PostgreSQL (pgvector), FastAPI, Kubernetes (KEDA), and DBOS.
-*   **Cognitive Routing:** Dynamically routes extraction tasks to fast models (Llama 3/Flash) and reserves frontier models (Claude 3.5 Sonnet) strictly for synthesis, yielding $0.149/turn unit economics.
-*   **Reliability:** Cohen's Kappa-calibrated LLM-as-a-judge eval gates over a golden dataset.
+*   **Cognitive Routing:** Dynamically routes extraction tasks to fast models (Llama 3/Flash) and reserves frontier models (Claude 3.5 Sonnet) strictly for synthesis, yielding **$0.149/turn unit economics**.
+*   **Reliability:** Gates deployments on a strict **Cohen's Kappa >= 0.90** threshold against a human-labeled golden dataset.
 *   **Durable State:** DBOS execution for crash-resumable state recovery on long-running research loops.
 *   **Scale:** KEDA scale-from-zero searcher pods on an ARQ Redis queue.
 
 #### 3. [Agents Eval Framework](https://github.com/subratamondal1/agents-eval-framework) | Autonomous Prompt Optimization
-An automated prompt-calibration CI/CD suite built on DSPy and GEPA loops to enforce strict agreement thresholds prior to model regressions.
+An automated prompt-calibration CI/CD suite built on DSPy and GEPA loops. Iterated a DSPy voice-agent benchmark from a Cohen's Kappa of 0.12 to 0.9261 across 5 architecture versions.
 
 ---
 
@@ -46,8 +48,8 @@ An automated prompt-calibration CI/CD suite built on DSPy and GEPA loops to enfo
 
 | Domain | Technologies |
 | :--- | :--- |
-| **Languages** | Python 3.12+ (Async, Pydantic, LiteLLM), TypeScript |
-| **Agentic Systems** | MCP, Planner-Worker Swarms, Framework-Free Runtimes, Contextual RAG, Hybrid Search (RRF) |
+| **Languages & Core** | Python 3.12+ (Async, Pydantic, LiteLLM), TypeScript |
+| **Agentic Systems** | MCP, Planner-Worker Swarms, Framework-Free Runtimes, Contextual RAG |
 | **Evaluation** | LLM-as-a-judge, Cohen's Kappa, DSPy, RAGAS, Golden-Set Replay |
 | **Infra & State** | DBOS Durable Execution, Redis ARQ, Docker, Kubernetes + KEDA, Azure Container Apps, Terraform |
 | **Databases** | PostgreSQL (pgvector), MongoDB Atlas |
@@ -59,7 +61,7 @@ An automated prompt-calibration CI/CD suite built on DSPy and GEPA loops to enfo
 
 ```yaml
 role: Founding / Sole AI Engineer (Smart AI Technology Solutions, Aug 2024 to Jun 2026)
-status: Open to Senior / Founding AI Engineer roles
+status: Open to Senior / Founding AI Engineer roles ($200K+)
 model_preferences: Claude 3.5 Sonnet (Synthesis), Llama 3 / Flash (Extraction)
 focus: Agentic Systems, Applied LLMs, Production Backends, LLM Evals, Durable Execution
 timezone: IST (UTC+5:30) | Async-First Remote
