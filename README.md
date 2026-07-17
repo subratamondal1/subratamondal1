@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Subrata Mondal</h1>
-  <h3>Founding AI Engineer | Primitive-Level Architecture & Hyperscale Infrastructure</h3>
-  <p><em>Raw Async Python · LiteLLM · DBOS · Multi-Agent Swarms · DSPy Evals · Kubernetes (KEDA)</em></p>
+  <h3>Founding AI Engineer | Agentic Systems · LangGraph → Hand-Built Primitives</h3>
+  <p><em>Python 3.12+ (Async) · LiteLLM · MCP · DSPy Evals · Kubernetes (KEDA) · DBOS</em></p>
 
   <p>
     <a href="https://subrata.cloud/" target="_blank">Portfolio</a> •
@@ -14,56 +14,57 @@
 ---
 
 ### 🟢 Status
-**Open to Founding / Senior AI Engineer roles.** Most recently the Founding AI Engineer at **Smart AI Technology Solutions (LawWorld)** (Aug 2024 - Jun 2026), where I served as the sole AI and backend engineer, shipping 5 production backends and a 170K-document legal RAG system serving 2,000+ users.
+**Open to Founding / Senior / AI Engineer roles, remote, hybrid, onsite.** I spent the last ~2 years as the sole AI and backend engineer at **lawworld.ai**, taking a legal-AI product from empty repo to production — architecture, agent orchestration, evals, CI/CD, cloud, the entire AI backend, solo — serving 2,000+ users today.
 
 ---
 
-### 🧠 The Engineering Philosophy
-I do not build fragile AI wrappers using high-level frameworks like LangChain or LangGraph. I specialize in **primitive-level orchestration**, engineering the entire hyperscale stack from the ground up—from global edge routing and TCP optimization down to custom LLM orchestration and Pydantic-enforced structured outputs. 
+### 🧠 What I Know
 
-> *"Frameworks obscure the cost ledger; primitives expose it."*
-
-My work focuses on abandoning opaque multi-agent frameworks in favor of raw async Python, LiteLLM, and durable execution to enforce highly deterministic, transparent, and scalable ReAct loops with bounded iterations.
+I know the internals of the agent frameworks your team runs (LangGraph, CrewAI, AutoGen), not just the API surface — tool registry, prompt assembly, the loop, retry/fallback, state, permissions, observability, eval gate. Ran LangGraph in production for 4 months, then built those 8 primitives by hand. That's what lets me name which primitive is actually failing, not just which framework.
 
 ---
 
-### 🚀 Production & Open-Source Architecture
+### 🏗️ Production — lawworld.ai
 
-#### 1. [Bare Agent](https://github.com/subratamondal1/bare-agent) | Framework-Free Multi-Agent Runtime
-A zero-lock-in agent runtime published to PyPI, built on exactly 8 core primitives and zero dependencies. At LawWorld, I replaced a production LangGraph orchestration layer with this custom 8-primitive runtime, **cutting prompt token overhead by 27%** and eliminating schema drift entirely. Features a Next.js drag-and-drop studio that compiles visual node graphs directly into raw, high-performance async Python code.
-
-#### 2. [Argus](https://github.com/subratamondal1/argus) | Multi-Agent Deep-Research Engine
-A framework-free ReAct orchestration swarm built on Python, LiteLLM, PostgreSQL (pgvector), FastAPI, Kubernetes (KEDA), and DBOS.
-*   **Cognitive Routing:** Dynamically routes extraction tasks to fast models (Llama 3/Flash) and reserves frontier models (Claude 3.5 Sonnet) strictly for synthesis, yielding **$0.149/turn unit economics**.
-*   **Reliability:** Gates deployments on a strict **Cohen's Kappa >= 0.90** threshold against a human-labeled golden dataset.
-*   **Durable State:** DBOS execution for crash-resumable state recovery on long-running research loops.
-*   **Scale:** KEDA scale-from-zero searcher pods on an ARQ Redis queue.
-
-#### 3. [Agents Eval Framework](https://github.com/subratamondal1/agents-eval-framework) | Autonomous Prompt Optimization
-An automated prompt-calibration CI/CD suite built on DSPy and GEPA loops. Iterated a DSPy voice-agent benchmark from a Cohen's Kappa of 0.12 to 0.9261 across 5 architecture versions.
+- **Reliability** — per-page MongoDB checkpointing + Azure Service Bus choreography, at-least-once execution, zero data loss on crashes. 7–8× Pass 1 wall-clock collapse (450–700s → 80–100s) via `asyncio.gather` + `Semaphore(6)`.
+- **Cost engineering** — replaced a monolithic extraction pass with a bounded Agent 0 ReAct loop, cutting total token cost 27% on a 26-document stratified eval set (26/26 exact-match retained). Per-call cost-attribution middleware into MongoDB: 100.8M+ tokens processed, $296.75 total cost, 47.6% cache hit rate.
+- **Scale** — 170K-document legal corpus, 2-stage retrieval (Atlas Vector Search ANN → Voyage rerank-2.5), Perplexity-style citations with a cited-only filter (~30× fewer persisted sources). ~2,000 registered users since the Jan 2026 launch.
+- **Security** — multi-tenant JWT auth with per-request ownership gates that return 404, not 403, on unauthorized access, closing the enumeration side-channel most teams miss.
+- **Eval discipline** — authored the eval-gating contract (ADR-005) before writing chat code: recall@5, phrase-overlap, and citation-accuracy thresholds as CI merge gates.
 
 ---
 
-### ⚙️ The Stack
+### ⚙️ Open-Source
+
+#### [bare-agent](https://github.com/subratamondal1/bare-agent) — The 8-Primitive Agent Runtime
+Zero-dependency agent runtime published to PyPI: strictly bounded ReAct loop, per-call cost ledgers, strict Pydantic V2 schema validation at every tool-call boundary, full transparency over the execution graph. Ships with a Next.js drag-and-drop studio that compiles visual node graphs into raw async Python.
+
+#### [Argus](https://github.com/subratamondal1/argus) — Multi-Agent Deep-Research Engine
+Permission-gated planner → parallel-searcher → synthesizer swarm (Python, LiteLLM, FastAPI, PostgreSQL/pgvector, Kubernetes + KEDA, DBOS). Cognitive routing sends extraction to fast/cheap models and reserves frontier reasoning models for synthesis, holding **$0.149/turn** unit economics. Clears 7 of 8 metrics on a curated eval benchmark behind a Cohen's-Kappa-calibrated LLM-judge gate. DBOS durable execution for crash-resumable research loops; KEDA scale-from-zero searcher pods on an ARQ/Redis queue.
+
+#### [agents-eval-framework](https://github.com/subratamondal1/agents-eval-framework) — LLM-as-a-Judge Calibration Engine
+DSPy Extractor-Judge calibration harness with an autonomous GEPA loop that reads failure traces and rewrites prompts. Drove Cohen's Kappa from 0.12 → 0.9261 across 5 architecture iterations on a 480-trace golden set.
+
+---
+
+### 🛠 Stack
 
 | Domain | Technologies |
 | :--- | :--- |
-| **Languages & Core** | Python 3.12+ (Async, Pydantic, LiteLLM), TypeScript |
-| **Agentic Systems** | MCP, Planner-Worker Swarms, Framework-Free Runtimes, Contextual RAG |
-| **Evaluation** | LLM-as-a-judge, Cohen's Kappa, DSPy, RAGAS, Golden-Set Replay |
-| **Infra & State** | DBOS Durable Execution, Redis ARQ, Docker, Kubernetes + KEDA, Azure Container Apps, Terraform |
-| **Databases** | PostgreSQL (pgvector), MongoDB Atlas |
-| **Observability** | OpenTelemetry (OTel), structlog |
+| **Agentic & LLM Systems** | Python 3.12+ (Async) · LiteLLM · MCP (Tool Calling) · DSPy · Hand-Built Agent Primitives · Hybrid RAG |
+| **Evaluation** | LLM-as-a-Judge · Cohen's Kappa Calibration · Golden-Set Replay · RAGAS |
+| **Distributed & Infra** | FastAPI · Docker · Kubernetes + KEDA · Azure Container Apps · Terraform · DBOS Durable Execution |
+| **Databases & Brokers** | MongoDB Atlas · PostgreSQL (pgvector) · Redis · Kafka / Azure Service Bus |
+| **Observability & Security** | OpenTelemetry · structlog · JWT Auth · Multi-Tenant Isolation |
 
 ---
 
 ### 📈 At a Glance
 
 ```yaml
-role: Founding / Sole AI Engineer (Smart AI Technology Solutions, Aug 2024 to Jun 2026)
-status: Open to Senior / Founding AI Engineer roles ($200K+)
-model_preferences: Claude 3.5 Sonnet (Synthesis), Llama 3 / Flash (Extraction)
+role: Founding / Sole AI Engineer (lawworld.ai, Aug 2024 – Jun 2026)
+status: open to Senior / Founding / AI Engineer roles, remote, hybrid, onsite
 focus: Agentic Systems, Applied LLMs, Production Backends, LLM Evals, Durable Execution
-timezone: IST (UTC+5:30) | Async-First Remote
+timezone: IST (UTC+5:30)
 contact: subratasubha2@gmail.com
 ```
